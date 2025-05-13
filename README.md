@@ -6,14 +6,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AugustoMenchaca/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3379-score-of-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AugustoMenchaca/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AugustoMenchaca/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
