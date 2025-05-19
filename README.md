@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AugustoMenchaca/Leetcode/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/AugustoMenchaca/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0812-rotate-string) |
@@ -33,4 +34,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/AugustoMenchaca/Leetcode/tree/master/0696-count-binary-substrings) |
+## Array
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AugustoMenchaca/Leetcode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AugustoMenchaca/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AugustoMenchaca/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/AugustoMenchaca/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
