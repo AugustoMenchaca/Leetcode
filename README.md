@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/AugustoMenchaca/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0812-rotate-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AugustoMenchaca/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2391-strong-password-checker-ii](https://github.com/AugustoMenchaca/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [3379-score-of-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/3379-score-of-a-string) |
 ## Hash Table
 |  |
