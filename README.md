@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/AugustoMenchaca/Leetcode/tree/master/0079-word-search) |
 | [3321-type-of-triangle](https://github.com/AugustoMenchaca/Leetcode/tree/master/3321-type-of-triangle) |
+| [3644-minimum-positive-sum-subarray](https://github.com/AugustoMenchaca/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -62,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/AugustoMenchaca/Leetcode/tree/master/3321-type-of-triangle) |
+## Sliding Window
+|  |
+| ------- |
+| [3644-minimum-positive-sum-subarray](https://github.com/AugustoMenchaca/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3644-minimum-positive-sum-subarray](https://github.com/AugustoMenchaca/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
