@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AugustoMenchaca/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/AugustoMenchaca/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0749-shortest-completing-word](https://github.com/AugustoMenchaca/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0812-rotate-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0812-rotate-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AugustoMenchaca/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2391-strong-password-checker-ii](https://github.com/AugustoMenchaca/Leetcode/tree/master/2391-strong-password-checker-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0749-shortest-completing-word](https://github.com/AugustoMenchaca/Leetcode/tree/master/0749-shortest-completing-word) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AugustoMenchaca/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/AugustoMenchaca/Leetcode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/AugustoMenchaca/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0749-shortest-completing-word](https://github.com/AugustoMenchaca/Leetcode/tree/master/0749-shortest-completing-word) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AugustoMenchaca/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/AugustoMenchaca/Leetcode/tree/master/3321-type-of-triangle) |
 | [3644-minimum-positive-sum-subarray](https://github.com/AugustoMenchaca/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
