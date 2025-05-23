@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AugustoMenchaca/Leetcode/tree/master/0079-word-search) |
+| [0119-pascals-triangle-ii](https://github.com/AugustoMenchaca/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [3321-type-of-triangle](https://github.com/AugustoMenchaca/Leetcode/tree/master/3321-type-of-triangle) |
 | [3644-minimum-positive-sum-subarray](https://github.com/AugustoMenchaca/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Backtracking
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-minimum-positive-sum-subarray](https://github.com/AugustoMenchaca/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/AugustoMenchaca/Leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
