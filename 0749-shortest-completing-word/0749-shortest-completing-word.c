@@ -56,6 +56,11 @@ char* shortestCompletingWord(char* licensePlate, char** words, int wordsSize) {
         }
     }
 
+    for(i = 0; i < wordsSize; i++){
+        free(verifica[i]);
+    }
+    free(verifica);
+
     return words[idx];
 
 }   
