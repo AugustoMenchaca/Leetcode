@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AugustoMenchaca/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String Matching
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AugustoMenchaca/Leetcode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/AugustoMenchaca/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0749-shortest-completing-word](https://github.com/AugustoMenchaca/Leetcode/tree/master/0749-shortest-completing-word) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AugustoMenchaca/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AugustoMenchaca/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/AugustoMenchaca/Leetcode/tree/master/3321-type-of-triangle) |
 | [3644-minimum-positive-sum-subarray](https://github.com/AugustoMenchaca/Leetcode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AugustoMenchaca/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/AugustoMenchaca/Leetcode/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
@@ -96,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/AugustoMenchaca/Leetcode/tree/master/0389-find-the-difference) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AugustoMenchaca/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AugustoMenchaca/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
