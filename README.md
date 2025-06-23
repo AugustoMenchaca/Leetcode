@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/AugustoMenchaca/Leetcode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/AugustoMenchaca/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0739-daily-temperatures](https://github.com/AugustoMenchaca/Leetcode/tree/master/0739-daily-temperatures) |
 | [0749-shortest-completing-word](https://github.com/AugustoMenchaca/Leetcode/tree/master/0749-shortest-completing-word) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AugustoMenchaca/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AugustoMenchaca/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -107,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AugustoMenchaca/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AugustoMenchaca/Leetcode/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/AugustoMenchaca/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
