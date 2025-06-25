@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/AugustoMenchaca/Leetcode/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AugustoMenchaca/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String Matching
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AugustoMenchaca/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0739-daily-temperatures](https://github.com/AugustoMenchaca/Leetcode/tree/master/0739-daily-temperatures) |
 | [0749-shortest-completing-word](https://github.com/AugustoMenchaca/Leetcode/tree/master/0749-shortest-completing-word) |
+| [0860-design-circular-queue](https://github.com/AugustoMenchaca/Leetcode/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AugustoMenchaca/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AugustoMenchaca/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/AugustoMenchaca/Leetcode/tree/master/3321-type-of-triangle) |
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AugustoMenchaca/Leetcode/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/AugustoMenchaca/Leetcode/tree/master/0860-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/AugustoMenchaca/Leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
