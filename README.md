@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/AugustoMenchaca/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0749-shortest-completing-word](https://github.com/AugustoMenchaca/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0812-rotate-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/0812-rotate-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AugustoMenchaca/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AugustoMenchaca/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2391-strong-password-checker-ii](https://github.com/AugustoMenchaca/Leetcode/tree/master/2391-strong-password-checker-ii) |
 | [3379-score-of-a-string](https://github.com/AugustoMenchaca/Leetcode/tree/master/3379-score-of-a-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/AugustoMenchaca/Leetcode/tree/master/0739-daily-temperatures) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AugustoMenchaca/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/AugustoMenchaca/Leetcode/tree/master/0860-design-circular-queue) |
+## Greedy
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AugustoMenchaca/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
