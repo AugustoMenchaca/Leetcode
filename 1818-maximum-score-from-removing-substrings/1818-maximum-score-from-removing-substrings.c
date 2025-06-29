@@ -92,7 +92,7 @@ int maximumGain(char* s, int x, int y) {
         stack_string -> score += stack_aux -> score;
 
     }else{
-        // ba tem priridade
+        // ba tem prioridade
         for(int i = tamanho - 2; i >= 0; i--){
 
             if ((s[i] == 'b' || s[i] == 'a') && stack_string -> topo > 0){
