@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AugustoMenchaca/Leetcode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AugustoMenchaca/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0538-convert-bst-to-greater-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -143,10 +144,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AugustoMenchaca/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AugustoMenchaca/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
