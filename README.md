@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AugustoMenchaca/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AugustoMenchaca/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -152,8 +154,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AugustoMenchaca/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 <!---LeetCode Topics End-->
