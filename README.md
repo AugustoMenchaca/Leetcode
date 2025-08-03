@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AugustoMenchaca/Leetcode/tree/master/0739-daily-temperatures) |
 | [0749-shortest-completing-word](https://github.com/AugustoMenchaca/Leetcode/tree/master/0749-shortest-completing-word) |
 | [0860-design-circular-queue](https://github.com/AugustoMenchaca/Leetcode/tree/master/0860-design-circular-queue) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AugustoMenchaca/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AugustoMenchaca/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3321-type-of-triangle](https://github.com/AugustoMenchaca/Leetcode/tree/master/3321-type-of-triangle) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AugustoMenchaca/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/AugustoMenchaca/Leetcode/tree/master/3321-type-of-triangle) |
 ## Sorting
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/AugustoMenchaca/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -158,13 +162,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AugustoMenchaca/Leetcode/tree/master/0100-same-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union Find
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
