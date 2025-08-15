@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AugustoMenchaca/Leetcode/tree/master/0148-sort-list) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AugustoMenchaca/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/AugustoMenchaca/Leetcode/tree/master/0696-count-binary-substrings) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/AugustoMenchaca/Leetcode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/AugustoMenchaca/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/AugustoMenchaca/Leetcode/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/AugustoMenchaca/Leetcode/tree/master/0389-find-the-difference) |
 | [3321-type-of-triangle](https://github.com/AugustoMenchaca/Leetcode/tree/master/3321-type-of-triangle) |
 ## Sliding Window
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/AugustoMenchaca/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/AugustoMenchaca/Leetcode/tree/master/0148-sort-list) |
 | [0860-design-circular-queue](https://github.com/AugustoMenchaca/Leetcode/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AugustoMenchaca/Leetcode/tree/master/0148-sort-list) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union Find
 |  |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AugustoMenchaca/Leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AugustoMenchaca/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
