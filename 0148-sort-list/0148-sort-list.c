@@ -1,45 +1,46 @@
-#include <stdlib.h>
-#include <stdio.h>
+struct ListNode* mesclarListas(struct ListNode* lista1, struct ListNode* lista2) {
+    struct ListNode cabeca;
+    cabeca.next = NULL;
 
-int *organiza_vetor(int *vetor, struct ListNode *no, int contador);
-int compara_int(const void *a, const void *b);
-#define Max 100000
+    struct ListNode* ponteiroFinal = &cabeca;
 
-struct ListNode *sortList(struct ListNode *head)
-{
-    int *dados = (int *)malloc(Max * sizeof(int));
-
-    dados = organiza_vetor(dados, head, 0);
-
-    struct ListNode *passador = head;
-
-    while (passador != NULL)
-    {
-
-        passador->val = *dados;
-
-        dados++;
-        passador = passador->next;
+    while (lista1 && lista2) {
+        if (lista1->val <= lista2->val) {
+            ponteiroFinal->next = lista1;
+            lista1 = lista1->next;
+        } else {
+            ponteiroFinal->next = lista2;
+            lista2 = lista2->next;
+        }
+        ponteiroFinal = ponteiroFinal->next;
     }
 
-    return head;
-}
-
-int *organiza_vetor(int *vetor, struct ListNode *no, int contador)
-{
-    if (no == NULL)
-    {
-        qsort(vetor, contador, sizeof(int), compara_int);
-
-        return vetor;
+    if (lista1 != NULL) {
+        ponteiroFinal->next = lista1;
+    } else {
+        ponteiroFinal->next = lista2;
     }
 
-    vetor[contador] = no->val;
-
-    return organiza_vetor(vetor, no->next, (contador + 1));
+    return cabeca.next;
 }
 
-int compara_int(const void *a, const void *b)
-{
-    return (*(int *)a - *(int *)b);
+struct ListNode* sortList(struct ListNode* inicio) {
+    if (!inicio || !inicio->next) return inicio;
+
+    struct ListNode* slow = inicio;
+    struct ListNode* fast = inicio->next;
+
+    while (fast && fast->next) {
+        slow = slow->next;
+        fast = fast->next->next;
+    }
+
+    struct ListNode* mid = slow->next;
+    slow->next = NULL; // Quebra a lista em duas
+
+    struct ListNode* listaEsquerda = sortList(inicio);
+    struct ListNode* listaDireita = sortList(mid);
+
+    return mesclarListas(listaEsquerda, listaDireita);
+    
 }
